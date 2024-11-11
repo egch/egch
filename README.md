@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @egch
+- 👋 Hi, I’m @egch, github bronze badge
 - 👀 I’m interested in Java, Azure, Spring, coding challenges, ReactJS
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to complete one of my N projects created in github
